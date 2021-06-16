@@ -1,0 +1,2 @@
+This is a simple example file that must be copied into
+Directory: d2
